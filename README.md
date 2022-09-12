@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 |🚀 My recommended products & services|
 | -------------|
-| <a href="https://gofiber.io" target="_blank"><img align="center" src="https://omnipost.biz/api/posts/?accountName=nnurmano&type=products"/></a>| 
+| <a href="https://gofiber.io" target="_blank"><img align="center" src="https://contents-nooverload.s3.us-west-2.amazonaws.com/public/logos/TI94UMqmiwmwE4vHcMLK1_rapyd-logo-png.webp"/></a>| 
 | git diff |
