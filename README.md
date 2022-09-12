@@ -12,4 +12,7 @@ nomadus/nomadus is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Nomadus's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomadus)](https://github.com/anuraghazra/github-readme-stats)
+[![My Recommended Product &
+								Services](https://omnipost.biz/api/posts/?accountName=Your account
+								name&type=products](https://omnipost.biz/api/posts/?accountName=<strong>Your account
+									name</strong>&type=products)
