@@ -9,4 +9,4 @@ nomadus/nomadus is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-https://omnipost.biz/api/posts/?accountName=nnurmano&type=products
+<img align="center" src="https://omnipost.biz/api/posts/?accountName=nnurmano&type=products"/>
