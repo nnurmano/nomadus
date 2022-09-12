@@ -11,5 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 |🚀 My recommended products & services|
 | -------------|
-| <a href="https://gofiber.io" target="_blank"><img align="center" src="https://contents-nooverload.s3.us-west-2.amazonaws.com/public/logos/TI94UMqmiwmwE4vHcMLK1_rapyd-logo-png.webp"/></a>| 
-| git diff |
+|<a target="_blank" href="https://omnipost.biz/campaigns/find-a-remote-job-520/?type=click&amp;source=applications&amp;sourceId=1"><img align="center" src="https://omnipost.biz/api/posts/1/svg"/></a>|
